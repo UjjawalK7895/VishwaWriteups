@@ -15,7 +15,7 @@ CTFTime: https://ctftime.org/event/2272
 
 
 ### Reverse Engineering
-1. [Sandese Aate hai](reverse-engineering/sandese-aate-hai.md) `401 points`
+1. [Sandese Aate hai](reverse-engineering/sandese-aate-hai.md) `401 points` (added)
 
 
 ### Digital Forensics
