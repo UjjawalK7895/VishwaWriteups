@@ -21,7 +21,7 @@ CTFTime: https://ctftime.org/event/2272
 ### Digital Forensics
 1. [Router |port|](digital-forensics/router-port.md) `389 points`
 2. [Smoke out the Rat](digital-forensics/smoke-out-the-rat.md) `286 points`
-3. [Repo Riddles](digital-forensics/repo-riddles.md) `412 points`
+3. [Repo Riddles](digital-forensics/repo-riddles.md) `412 points` (added)
 4. [Wired Secrets](digital-forensics/wired-secrets.md) `490 points`
 
 
