@@ -27,9 +27,9 @@ CTFTime: https://ctftime.org/event/2272
 
 ### Cryptography
 1. [Poly Fun](cryptography/poly-fun.md) `300 points`
-2. [Happy Valentine's Day](cryptography/happy-valentines-day.md) `200 points`
+2. [Happy Valentine's Day](cryptography/happy-valentines-day.md) `200 points` (added)
 3. [Intellectual Heir](cryptography/intellectual-heir.md) `500 points`
-4. [Teyvat Tales](cryptography/teyvat-tales.md) `300 points`
+4. [Teyvat Tales](cryptography/teyvat-tales.md) `300 points` (added)
 5. [Let's smother the King!](cryptography/lets-smother-the-king.md) `300 points`
 
 
@@ -47,5 +47,5 @@ CTFTime: https://ctftime.org/event/2272
 ### Miscellaneous
 1. [Welcome to VishwaCTF'24](miscellaneous/welcome-to-vishwactf.md) `50 points`
 2. [Who am I?](miscellaneous/who-am-i.md) `200 points`
-3. [Hardware Heist](miscellaneous/hardware-heist.md) `257 points`
+3. [Hardware Heist](miscellaneous/hardware-heist.md) `257 points` (added)
 4. [Feedback](miscellaneous/feedback.md) `100 points`
