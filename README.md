@@ -48,4 +48,4 @@ CTFTime: https://ctftime.org/event/2272
 1. [Welcome to VishwaCTF'24](miscellaneous/welcome-to-vishwactf.md) `50 points`
 2. [Who am I?](miscellaneous/who-am-i.md) `200 points`
 3. [Hardware Heist](miscellaneous/hardware-heist.md) `257 points` (added)
-4. [Feedback](miscellaneous/feedback.md) `100 points`
+4. [Feedback](miscellaneous/feedback.md) `100 points` (added)
