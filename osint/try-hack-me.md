@@ -16,7 +16,7 @@ His real name == His username
 #### Writeup
 Since his username was his real name, I went on to google to search for vishwactf and found the tech team on their website https://vishwactf.com/team/team.html.
 
-Then I tried every person's name on tryhackme by https://tryhackme.com/p/<username>.
+Then I tried every person's name on tryhackme by https://tryhackme.com/p/username.
 
 And using the name Ankush Kaudi in place of username, opened the profile with the flag in description.
 
