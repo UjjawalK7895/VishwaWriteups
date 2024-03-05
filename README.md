@@ -30,7 +30,7 @@ CTFTime: https://ctftime.org/event/2272
 2. [Happy Valentine's Day](cryptography/happy-valentines-day.md) `200 points` (added)
 3. [Intellectual Heir](cryptography/intellectual-heir.md) `500 points`
 4. [Teyvat Tales](cryptography/teyvat-tales.md) `300 points` (added)
-5. [Let's smother the King!](cryptography/lets-smother-the-king.md) `300 points`
+5. [Let's smother the King!](cryptography/lets-smother-the-king.md) `300 points`(need to be update)
 
 
 ### Steganography
