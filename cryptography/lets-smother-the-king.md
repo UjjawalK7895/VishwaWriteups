@@ -27,6 +27,6 @@ By runing code we get
 White- Ke1,Qe5,Rc1,Rh1,Ne6,a2,b3,d2,f2,h2 Black- Ka8,Qh3,Rg8,Rh8,Bg7,a7,b7,e4,g2,g6,h7
 ```
 
-next is not know to me lol ;)
+Actually these are the positions of the chess pieces. So I put the position on lichess and then solved the puzzle to eventually smother mate the black king.
 
 #### FLAG : VishwaCTF{Nc7+_Kb8_Na6+_Ka8_Qb8+_Rxb8_Nc7#}
