@@ -41,7 +41,7 @@ CTFTime: https://ctftime.org/event/2272
 1. [The end is beginning](osint/the-end-is-beginning.md) `200 points` (added)
 2. [TRY HACK ME](osint/try-hack-me.md) `300 points`
 3. [ifconfig_inet](osint/ifconfig_inet.md) `300 points` (added)
-4. [Sagar Sangram](osint/sagar-sangram.md) `300 points`
+4. [Sagar Sangram](osint/sagar-sangram.md) `300 points` (added)
 
 
 ### Miscellaneous
