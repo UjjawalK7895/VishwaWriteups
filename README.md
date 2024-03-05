@@ -11,7 +11,7 @@ CTFTime: https://ctftime.org/event/2272
 2. [Trip to Us](web/trip-to-us.md) `200 points` (added)
 3. [H34D3RS](web/h34d3rs.md) `214 points`
 4. [Prompt Injection](web/prompt-injection.md) `750 points`
-5. [They are Coming](web/they-are-coming.md) `200 points`
+5. [They are Coming](web/they-are-coming.md) `200 points` (added)
 
 
 ### Reverse Engineering
