@@ -7,7 +7,7 @@ CTFTime: https://ctftime.org/event/2272
 ## Writeups
 
 ### Web
-1. [Save the City](web/save-the-city.md) `200 points`
+1. [Save the City](web/save-the-city.md) `200 points` (added)
 2. [Trip to Us](web/trip-to-us.md) `200 points` (added)
 3. [H34D3RS](web/h34d3rs.md) `214 points` (added)
 4. [Prompt Injection](web/prompt-injection.md) `750 points` (added)
@@ -26,9 +26,9 @@ CTFTime: https://ctftime.org/event/2272
 
 
 ### Cryptography
-1. [Poly Fun](cryptography/poly-fun.md) `300 points`
+1. [Poly Fun](cryptography/poly-fun.md) `300 points` (added)
 2. [Happy Valentine's Day](cryptography/happy-valentines-day.md) `200 points` (added)
-3. [Intellectual Heir](cryptography/intellectual-heir.md) `500 points`
+3. [Intellectual Heir](cryptography/intellectual-heir.md) `500 points` (added)
 4. [Teyvat Tales](cryptography/teyvat-tales.md) `300 points` (added)
 5. [Let's smother the King!](cryptography/lets-smother-the-king.md) `300 points` (added)
 
