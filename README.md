@@ -34,7 +34,7 @@ CTFTime: https://ctftime.org/event/2272
 
 
 ### Steganography
-1. [Secret Code](steganography/secret-code.md) `500 points`
+1. [Secret Code](steganography/secret-code.md) `500 points` (added)
 2. [Mysterious Old Case](steganography/mysterious-old-case.md) `311 points` (added)
 
 ### OSINT
